@@ -1,0 +1,32 @@
+
+@media only screen and (min-width: 992px)
+{
+    .top-card-section
+        {
+            padding-bottom: 180px;
+        }
+}
+
+
+@media only screen and (max-width: 992px)
+{
+    .top-card-section
+        {
+            padding-bottom: 450px;
+        }
+}
+
+
+@media only screen and (max-width: 768px)
+{
+        .top-card-section
+    {
+        padding-bottom: 650px;
+    }
+}
+
+
+
+
+
+
